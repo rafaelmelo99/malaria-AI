@@ -10,6 +10,6 @@ There was a previous model on folder "output", but you can train it again using 
 
 <i>python3 cnn-malaria.py -d path_to_database -m path_to_save_model.model</i>
 
-To make a predition, type:
+To make a prediction, type:
 
 <i>python3 predict.py -i path_to_image.png -m path_to_model.model</i>
